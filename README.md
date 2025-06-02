@@ -16,4 +16,4 @@
 - **OCSP**: Online Certificate Status Protocol, it is used in TLS to check certificate status.
 
 ## Results:
-**The results are stored in Task_5.pcap file. The capture contains only relevant and safe packets, ensuring no personal or sensitive information is revealed.**
+**The results are stored in Task_5.pcapng file. The capture contains only relevant and safe packets, ensuring no personal or sensitive information is revealed.**
