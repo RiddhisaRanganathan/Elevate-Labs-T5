@@ -4,7 +4,7 @@
 1. Installed and launched Wireshark.
 2. Started capturing on the active network interface.
 3. Generated network traffic by:
-   - Visiting https://www.google.com (HTTPS traffic).
+   - Visiting https://www.google.com (HTTPS traffic) on a Web browser.
    - Pinging Google's DNS servers 8.8.8.8 and 1.1.1.1 to generate ICMP packets.
 4. Stopped the capture after about one minute.
 5. Applied filters to isolate safe traffic and saved the filtered capture as a .pcap file.
